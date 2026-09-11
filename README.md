@@ -1,79 +1,152 @@
-# InsightGuard AI — Business Intelligence & Anomaly Detection Dashboard
+# 🚀 InsightGuard AI
 
-InsightGuard AI is an interactive Power BI dashboard designed to monitor business performance, identify unusual KPI behavior, and support data-driven investigation.
+### AI-Powered Business Intelligence & Anomaly Detection Dashboard
 
-## 📊 Project Overview
+InsightGuard AI is an interactive **Microsoft Power BI dashboard** designed to monitor business performance, identify unusual KPI behavior, and help users investigate business anomalies through data-driven insights.
 
-The dashboard analyzes business KPIs such as:
+---
 
-- Total Sales
-- Total Revenue
-- Average Price
-- Average Stock
-- Anomaly Severity
-- Percentage Change
-- Z-Score
+## 📊 Dashboard Preview
 
-The project contains three main dashboard views:
+### Executive Overview
+
+![Executive Overview](executive-overview.png)
+
+### Business Overview
+
+![Business Overview](business-overview.png)
+
+### Anomaly Investigation
+
+![Anomaly Investigation](anomaly-investigation.png)
+
+---
+
+## 🎯 Project Overview
+
+InsightGuard AI transforms business data into an interactive analytical dashboard that helps decision-makers quickly understand:
+
+- 📈 Business performance
+- 💰 Revenue and sales trends
+- 📦 Stock and pricing behavior
+- 🚨 Business anomalies
+- ⚠️ Anomaly severity
+- 🔍 KPI-level investigation
+- 🤖 AI-generated business insights
+
+---
+
+## 📌 Dashboard Pages
 
 ### 1. Executive Overview
-Provides a high-level view of business performance, including:
+
+Provides a high-level summary of overall business performance.
+
+**Key components:**
 - Total Revenue
 - Total Sales
 - Anomalies Detected
 - Critical Anomalies
-- Daily Revenue Trends
-- Daily Sales Trends
+- Daily Revenue Trend
+- Daily Sales Trend
 - Anomalies by KPI
-- Severity Distribution
-- Date and KPI filters
+- Anomaly Severity Distribution
+- Interactive Date, Metric and Severity filters
+
+---
 
 ### 2. Business Overview
-Provides detailed business performance analysis through:
+
+Provides detailed analysis of business performance and trends.
+
+**Key components:**
 - Monthly Sales Performance
-- Average Price and Stock Trends
+- Average Price vs Average Stock
 - Total Anomalies by Severity
-- Monthly Anomaly Trends
-- KPI performance indicators
+- Monthly Anomaly Trend
+- Business performance KPIs
+
+---
 
 ### 3. Anomaly Investigation
-Allows users to investigate individual anomalies and understand:
-- Anomaly date
-- Affected metric
+
+Allows users to investigate individual business anomalies.
+
+**Key components:**
+- Anomaly Date
+- KPI / Metric
 - Severity
-- Percentage change
-- Selected value
-- Baseline value
-- Z-score
-- Business impact
-- Recommended investigation steps
+- Percentage Change
+- Selected Value
+- Baseline Value
+- Z-Score
+- Anomaly Impact
+- AI-generated explanation
+- Recommended investigation
 
-## 🛠️ Tools & Technologies
+---
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Visualization
-- KPI Analysis
-- Anomaly Detection
-- Business Intelligence
+## 🛠️ Technologies Used
 
-## 🎯 Key Features
+- **Microsoft Power BI**
+- **Power Query**
+- **DAX**
+- **Data Visualization**
+- **Business Intelligence**
+- **KPI Analysis**
+- **Anomaly Detection**
+- **AI-assisted Insights**
+
+---
+
+## ⭐ Key Features
 
 - Interactive dashboard navigation
-- KPI monitoring
-- Anomaly identification
-- Critical and warning severity classification
 - Dynamic filtering
-- Trend analysis
-- Drill-down investigation
-- AI-generated business insights
+- KPI monitoring
+- Revenue and sales trend analysis
+- Critical and warning anomaly classification
+- Z-score based anomaly analysis
+- Business impact analysis
+- AI-generated explanations
+- Recommended investigation actions
 - Executive-level reporting
 
-## 📁 Project Structure
+---
 
-```text
-InsightGuard-AI/
-│
-├── InsightGuard-AI.pbix
-└── README.md
+## 📂 Project Files
+
+| File | Description |
+|---|---|
+| `InsightGuard-AI.pbix` | Complete Power BI dashboard |
+| `executive-overview.png` | Executive Overview screenshot |
+| `business-overview.png` | Business Overview screenshot |
+| `anomaly-investigation.png` | Anomaly Investigation screenshot |
+
+---
+
+## 🚀 How to Use
+
+1. Download `InsightGuard-AI.pbix`.
+2. Open the file using **Microsoft Power BI Desktop**.
+3. Explore the dashboard pages.
+4. Use the filters to analyze different KPIs.
+5. Select anomalies to investigate their business impact.
+
+---
+
+## 🔗 Live Power BI Demo
+
+[View InsightGuard AI Dashboard](https://app.powerbi.com/links/SC6AKfyI7X?ctid=d122c069-d062-4c6a-9405-88dbb5295702&pbi_source=linkShare)
+
+---
+
+## 👨‍💻 Author
+
+**Pratik Baviskar**
+
+Aspiring Data Analyst | Business Intelligence | Power BI
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
